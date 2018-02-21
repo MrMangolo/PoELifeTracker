@@ -1,0 +1,9 @@
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\bin\Debug\Screenshot.exe.config
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\bin\Debug\Screenshot.exe
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\bin\Debug\Screenshot.pdb
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.csprojResolveAssemblyReference.cache
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.Form1.resources
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.Properties.Resources.resources
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.csproj.GenerateResource.Cache
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.exe
+c:\users\weissbacherd\documents\visual studio 2015\Projects\Screenshot\Screenshot\obj\Debug\Screenshot.pdb
